@@ -1,7 +1,12 @@
 DBD_Oracle-OSX-installer
 ========================
 
-Installs DBD::Oracle and sets up OSX dependencies required by cpan DBD::Oracle module.
+Installs DBD::Oracle and sets up OSX dependencies required by cpan/perl DBD::Oracle module.
+
+DOWNLOAD
+========================
+See Github download page to download installation package: https://github.com/downloads/yeison/DBD_Oracle-OSX-installer/DBD_Oracle-OSX-Installer%20v0.1.3.dmg
+
 
 INSTALL
 ========================
